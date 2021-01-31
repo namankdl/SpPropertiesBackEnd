@@ -1,0 +1,5 @@
+/home/naman/spring-boot-crud/src/main/java/com/spproperties/controller/SPpropertyController.java
+/home/naman/spring-boot-crud/src/main/java/com/spproperties/SpringBootCrudApplication.java
+/home/naman/spring-boot-crud/src/main/java/com/spproperties/service/PropertyService.java
+/home/naman/spring-boot-crud/src/main/java/com/spproperties/repository/PropertyRepository.java
+/home/naman/spring-boot-crud/src/main/java/com/spproperties/model/Property.java

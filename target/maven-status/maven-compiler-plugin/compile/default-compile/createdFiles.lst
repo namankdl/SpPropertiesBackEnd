@@ -1,0 +1,5 @@
+com/spproperties/model/Property.class
+com/spproperties/service/PropertyService.class
+com/spproperties/repository/PropertyRepository.class
+com/spproperties/controller/SPpropertyController.class
+com/spproperties/SpringBootCrudApplication.class
